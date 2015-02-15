@@ -13,6 +13,7 @@
   "author": "Morgan Bonar",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.11.2"
+    "express": "^4.11.2",
+    "jade": "^1.9.2"
   }
 }
