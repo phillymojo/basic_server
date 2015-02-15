@@ -8,7 +8,7 @@ app.get('/', function (req, res) {
   res.render('index', 
   	{
   		title: 'Express Server', 
-  		message: 'Basic Express server using Jade'
+  		message: 'Basic Express server using Jade templates'
   	}
   )
 });
